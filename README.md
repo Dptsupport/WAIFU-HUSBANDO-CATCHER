@@ -1,4 +1,4 @@
-![Image](https://graph.org/file/9901c2070cea11d1aa194.jpg)
+![Image](https://te.legra.ph/file/8f98892ae83bb0ad5119c.jpg)
 
 ## WAIFU & HUSBANDO CATCHER 
 
@@ -8,8 +8,8 @@
 
 
 _**Available On Telegram As 
-[Collect Em all](https://t.me/Collect_em_AllBot) and**_
-_Ask for Help in our [Support Chat](https://t.me/Collect_em_support)_
+[Collect Em all](http://t.me/All_the_waifu_robot) and**_
+_Ask for Help in our [Support Chat](https://t.me/All_the_waifu)_
 
 ## About The Repository
 ● This is an Open Source Implementation of Character Catcher Bot for Telegram
